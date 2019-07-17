@@ -1,0 +1,6 @@
+source https://www.nuget.org/api/v2
+
+nuget FsUnit.xUnit
+nuget Microsoft.Azure.Search
+nuget xunit.runner.visualstudio
+nuget FSharp.Control.AsyncSeq
